@@ -1,0 +1,4 @@
+oggi dobbiamo faree la misura di plateau
+la soglia scelta per sdw [ 45 mV
+la soglia fissata per csI [ 35 mV
+per fare la curva di plateau fiossiamo ,la tensione di uno dei due e studiamo la coincidejnzA VARIANDO la tensione dell-altro

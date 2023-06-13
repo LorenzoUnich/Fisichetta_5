@@ -1,0 +1,9 @@
+1" cosa da fare> misura del rate dello scintillatore in alto in funzione della soglia che cambiamo usando il discrimintaore e con la vitarella
+Tensione settata su
+scintillatore su 2050  V
+scintillatore giu 2200 V
+cristallo ioduro cesio 1200 V
+Scegliamo i tempi di acquisizione in modo da mantenerci con un errore relativo al di sotto 5%. ossia la radice di  N fratto N  sotto il 5 %. 
+Per  il rate di S1 scegliamo di volta in volta il tempo adatto. 
+L- errore sul multimetro 0.5% piu  o meno 0.02 mV. 
+Errore sul conteggio si deve prendere l-werrore poissoniano immaginanodo che i conteggi seguano una Poissoniana e quindi con una varianza pari al valore di aspettazione. 
